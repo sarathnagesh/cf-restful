@@ -5,6 +5,7 @@ public class Student {
 	int id;
 	String name;
 	int rank;
+	int pp;
 	
 	public Student(int id, String name, int rank) {
 		super();
